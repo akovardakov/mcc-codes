@@ -25,7 +25,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 3009,AIR CANADA,AIR CANADA,AIR CANADA,Airlines,Yes
 3010,KLM (ROYAL DUTCH AIRLINES),KLM (ROYAL DUTCH AIRLINES),KLM (ROYAL DUTCH AIRLINES),Airlines,Yes
 3011,AEORFLOT,AEORFLOT,AEORFLOT,Airlines,Yes
-3012,QUANTAS,QUANTAS,QUANTAS,Airlines,Yes
+3012,QANTAS,QANTAS,QANTAS,Airlines,Yes
 3013,ALITALIA,ALITALIA,ALITALIA,Airlines,Yes
 3014,SAUDIA ARABIAN AIRLINES,SAUDIA ARABIAN AIRLINES,SAUDIA ARABIAN AIRLINES,Airlines,Yes
 3015,SWISSAIR,SWISSAIR,SWISSAIR,Airlines,Yes
@@ -824,7 +824,7 @@ mcc,edited_description,combined_description,usda_description,irs_description,irs
 5945,"Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops","Hobby, Toy, and Game Shops",No1.6041-3(c)
 5946,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,Camera and Photographic Supply Stores,No1.6041-3(c)
 5947,"Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Card Shops, Gift, Novelty, and Souvenir Shops","Gift, Card, Novelty, and Souvenir Shops",No1.6041-3(c)
-5948,Leather Foods Stores,Leather Foods Stores,Leather Foods Stores,Luggage and Leather Goods Stores,No1.6041-3(c)
+5948,Leather Goods Stores,Leather Goods Stores,Leather Goods Stores,Luggage and Leather Goods Stores,No1.6041-3(c)
 5949,"Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needle, Fabric, and Price Goods Stores","Sewing, Needlework, Fabric, and Piece Goods Stores",No1.6041-3(c)
 5950,Glassware/Crystal Stores,Glassware/Crystal Stores,Glassware/Crystal Stores,"Glassware, Crystal Stores",No1.6041-3(c)
 5960,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing- Insurance Service,Direct Marketing - Insurance Services,Yes
